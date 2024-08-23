@@ -1,0 +1,386 @@
+[
+    {
+        "zipcode": 78617,
+        "avg_latestPrice": 197035.84,
+        "avg_price_per_sqft": 124.9,
+        "avg_house_age": 12.0,
+        "avg_school_rating": 3.16,
+        "avg_school_size": 1616
+    },
+    {
+        "zipcode": 78619,
+        "avg_latestPrice": 753149.17,
+        "avg_price_per_sqft": 206.09,
+        "avg_house_age": 3.1,
+        "avg_school_rating": 7.39,
+        "avg_school_size": 934
+    },
+    {
+        "zipcode": 78652,
+        "avg_latestPrice": 375339.75,
+        "avg_price_per_sqft": 213.48,
+        "avg_house_age": 1.5,
+        "avg_school_rating": 4.5,
+        "avg_school_size": 1263
+    },
+    {
+        "zipcode": 78653,
+        "avg_latestPrice": 333695.0,
+        "avg_price_per_sqft": 140.44,
+        "avg_house_age": 14.2,
+        "avg_school_rating": 4.25,
+        "avg_school_size": 1160
+    },
+    {
+        "zipcode": 78660,
+        "avg_latestPrice": 285534.06,
+        "avg_price_per_sqft": 148.89,
+        "avg_house_age": 4.8,
+        "avg_school_rating": 3.28,
+        "avg_school_size": 1087
+    },
+    {
+        "zipcode": 78701,
+        "avg_latestPrice": 996475.0,
+        "avg_price_per_sqft": 449.68,
+        "avg_house_age": 47.1,
+        "avg_school_rating": 6.0,
+        "avg_school_size": 1191
+    },
+    {
+        "zipcode": 78702,
+        "avg_latestPrice": 513293.73,
+        "avg_price_per_sqft": 397.44,
+        "avg_house_age": 47.4,
+        "avg_school_rating": 4.83,
+        "avg_school_size": 679
+    },
+    {
+        "zipcode": 78703,
+        "avg_latestPrice": 1192288.19,
+        "avg_price_per_sqft": 444.63,
+        "avg_house_age": 51.2,
+        "avg_school_rating": 6.74,
+        "avg_school_size": 1271
+    },
+    {
+        "zipcode": 78704,
+        "avg_latestPrice": 839770.92,
+        "avg_price_per_sqft": 434.72,
+        "avg_house_age": 37.1,
+        "avg_school_rating": 4.94,
+        "avg_school_size": 1004
+    },
+    {
+        "zipcode": 78705,
+        "avg_latestPrice": 657697.78,
+        "avg_price_per_sqft": 381.09,
+        "avg_house_age": 61.1,
+        "avg_school_rating": 6.76,
+        "avg_school_size": 1165
+    },
+    {
+        "zipcode": 78717,
+        "avg_latestPrice": 432340.78,
+        "avg_price_per_sqft": 158.95,
+        "avg_house_age": 15.6,
+        "avg_school_rating": 7.9,
+        "avg_school_size": 1559
+    },
+    {
+        "zipcode": 78719,
+        "avg_latestPrice": 316580.0,
+        "avg_price_per_sqft": 110.24,
+        "avg_house_age": 17.8,
+        "avg_school_rating": 3.53,
+        "avg_school_size": 1548
+    },
+    {
+        "zipcode": 78721,
+        "avg_latestPrice": 363793.73,
+        "avg_price_per_sqft": 292.0,
+        "avg_house_age": 40.6,
+        "avg_school_rating": 3.3,
+        "avg_school_size": 541
+    },
+    {
+        "zipcode": 78722,
+        "avg_latestPrice": 483887.14,
+        "avg_price_per_sqft": 354.47,
+        "avg_house_age": 62.8,
+        "avg_school_rating": 6.66,
+        "avg_school_size": 1132
+    },
+    {
+        "zipcode": 78723,
+        "avg_latestPrice": 434535.37,
+        "avg_price_per_sqft": 264.72,
+        "avg_house_age": 45.3,
+        "avg_school_rating": 4.0,
+        "avg_school_size": 833
+    },
+    {
+        "zipcode": 78724,
+        "avg_latestPrice": 278410.11,
+        "avg_price_per_sqft": 172.24,
+        "avg_house_age": 17.4,
+        "avg_school_rating": 3.49,
+        "avg_school_size": 972
+    },
+    {
+        "zipcode": 78725,
+        "avg_latestPrice": 225183.77,
+        "avg_price_per_sqft": 144.89,
+        "avg_house_age": 13.2,
+        "avg_school_rating": 3.02,
+        "avg_school_size": 1285
+    },
+    {
+        "zipcode": 78726,
+        "avg_latestPrice": 509582.7,
+        "avg_price_per_sqft": 174.05,
+        "avg_house_age": 19.3,
+        "avg_school_rating": 7.52,
+        "avg_school_size": 1313
+    },
+    {
+        "zipcode": 78727,
+        "avg_latestPrice": 380575.54,
+        "avg_price_per_sqft": 201.83,
+        "avg_house_age": 31.7,
+        "avg_school_rating": 5.79,
+        "avg_school_size": 1324
+    },
+    {
+        "zipcode": 78728,
+        "avg_latestPrice": 300907.55,
+        "avg_price_per_sqft": 170.57,
+        "avg_house_age": 25.6,
+        "avg_school_rating": 4.72,
+        "avg_school_size": 1297
+    },
+    {
+        "zipcode": 78729,
+        "avg_latestPrice": 338257.97,
+        "avg_price_per_sqft": 168.83,
+        "avg_house_age": 30.8,
+        "avg_school_rating": 5.69,
+        "avg_school_size": 1349
+    },
+    {
+        "zipcode": 78730,
+        "avg_latestPrice": 1020245.83,
+        "avg_price_per_sqft": 267.93,
+        "avg_house_age": 19.9,
+        "avg_school_rating": 7.0,
+        "avg_school_size": 1326
+    },
+    {
+        "zipcode": 78731,
+        "avg_latestPrice": 893545.94,
+        "avg_price_per_sqft": 326.92,
+        "avg_house_age": 41.3,
+        "avg_school_rating": 6.95,
+        "avg_school_size": 1303
+    },
+    {
+        "zipcode": 78732,
+        "avg_latestPrice": 706824.68,
+        "avg_price_per_sqft": 188.89,
+        "avg_house_age": 15.8,
+        "avg_school_rating": 8.41,
+        "avg_school_size": 1508
+    },
+    {
+        "zipcode": 78733,
+        "avg_latestPrice": 1061417.9,
+        "avg_price_per_sqft": 276.67,
+        "avg_house_age": 22.9,
+        "avg_school_rating": 8.46,
+        "avg_school_size": 1367
+    },
+    {
+        "zipcode": 78734,
+        "avg_latestPrice": 1390916.67,
+        "avg_price_per_sqft": 733.69,
+        "avg_house_age": 24.2,
+        "avg_school_rating": 7.22,
+        "avg_school_size": 1699
+    },
+    {
+        "zipcode": 78735,
+        "avg_latestPrice": 977815.31,
+        "avg_price_per_sqft": 261.88,
+        "avg_house_age": 22.3,
+        "avg_school_rating": 5.75,
+        "avg_school_size": 1363
+    },
+    {
+        "zipcode": 78736,
+        "avg_latestPrice": 409210.58,
+        "avg_price_per_sqft": 199.97,
+        "avg_house_age": 29.4,
+        "avg_school_rating": 6.69,
+        "avg_school_size": 1672
+    },
+    {
+        "zipcode": 78737,
+        "avg_latestPrice": 543377.29,
+        "avg_price_per_sqft": 178.23,
+        "avg_house_age": 12.6,
+        "avg_school_rating": 7.0,
+        "avg_school_size": 981
+    },
+    {
+        "zipcode": 78738,
+        "avg_latestPrice": 697000.0,
+        "avg_price_per_sqft": 276.04,
+        "avg_house_age": 3.0,
+        "avg_school_rating": 3.67,
+        "avg_school_size": 1287
+    },
+    {
+        "zipcode": 78739,
+        "avg_latestPrice": 545078.6,
+        "avg_price_per_sqft": 183.1,
+        "avg_house_age": 17.6,
+        "avg_school_rating": 8.47,
+        "avg_school_size": 1691
+    },
+    {
+        "zipcode": 78741,
+        "avg_latestPrice": 374497.21,
+        "avg_price_per_sqft": 243.04,
+        "avg_house_age": 31.5,
+        "avg_school_rating": 3.93,
+        "avg_school_size": 1081
+    },
+    {
+        "zipcode": 78742,
+        "avg_latestPrice": 209975.0,
+        "avg_price_per_sqft": 147.28,
+        "avg_house_age": 47.0,
+        "avg_school_rating": 3.33,
+        "avg_school_size": 1455
+    },
+    {
+        "zipcode": 78744,
+        "avg_latestPrice": 268640.15,
+        "avg_price_per_sqft": 165.01,
+        "avg_house_age": 20.7,
+        "avg_school_rating": 3.86,
+        "avg_school_size": 1320
+    },
+    {
+        "zipcode": 78745,
+        "avg_latestPrice": 360551.22,
+        "avg_price_per_sqft": 246.3,
+        "avg_house_age": 40.0,
+        "avg_school_rating": 4.02,
+        "avg_school_size": 897
+    },
+    {
+        "zipcode": 78746,
+        "avg_latestPrice": 1422145.12,
+        "avg_price_per_sqft": 398.39,
+        "avg_house_age": 27.9,
+        "avg_school_rating": 8.93,
+        "avg_school_size": 1621
+    },
+    {
+        "zipcode": 78747,
+        "avg_latestPrice": 294423.03,
+        "avg_price_per_sqft": 144.43,
+        "avg_house_age": 14.6,
+        "avg_school_rating": 5.06,
+        "avg_school_size": 1486
+    },
+    {
+        "zipcode": 78748,
+        "avg_latestPrice": 323004.39,
+        "avg_price_per_sqft": 176.98,
+        "avg_house_age": 20.8,
+        "avg_school_rating": 4.71,
+        "avg_school_size": 1447
+    },
+    {
+        "zipcode": 78749,
+        "avg_latestPrice": 395312.23,
+        "avg_price_per_sqft": 195.16,
+        "avg_house_age": 26.9,
+        "avg_school_rating": 6.71,
+        "avg_school_size": 1420
+    },
+    {
+        "zipcode": 78750,
+        "avg_latestPrice": 581114.45,
+        "avg_price_per_sqft": 213.32,
+        "avg_house_age": 32.5,
+        "avg_school_rating": 8.07,
+        "avg_school_size": 1565
+    },
+    {
+        "zipcode": 78751,
+        "avg_latestPrice": 569097.15,
+        "avg_price_per_sqft": 370.54,
+        "avg_house_age": 60.7,
+        "avg_school_rating": 6.89,
+        "avg_school_size": 1103
+    },
+    {
+        "zipcode": 78752,
+        "avg_latestPrice": 358422.43,
+        "avg_price_per_sqft": 261.12,
+        "avg_house_age": 53.7,
+        "avg_school_rating": 4.41,
+        "avg_school_size": 888
+    },
+    {
+        "zipcode": 78753,
+        "avg_latestPrice": 281872.73,
+        "avg_price_per_sqft": 181.45,
+        "avg_house_age": 39.5,
+        "avg_school_rating": 3.92,
+        "avg_school_size": 937
+    },
+    {
+        "zipcode": 78754,
+        "avg_latestPrice": 256518.2,
+        "avg_price_per_sqft": 133.64,
+        "avg_house_age": 14.7,
+        "avg_school_rating": 4.61,
+        "avg_school_size": 1037
+    },
+    {
+        "zipcode": 78756,
+        "avg_latestPrice": 691860.31,
+        "avg_price_per_sqft": 376.77,
+        "avg_house_age": 55.2,
+        "avg_school_rating": 6.59,
+        "avg_school_size": 1184
+    },
+    {
+        "zipcode": 78757,
+        "avg_latestPrice": 520312.08,
+        "avg_price_per_sqft": 328.27,
+        "avg_house_age": 50.2,
+        "avg_school_rating": 6.15,
+        "avg_school_size": 1156
+    },
+    {
+        "zipcode": 78758,
+        "avg_latestPrice": 337502.18,
+        "avg_price_per_sqft": 211.6,
+        "avg_house_age": 42.9,
+        "avg_school_rating": 4.08,
+        "avg_school_size": 1053
+    },
+    {
+        "zipcode": 78759,
+        "avg_latestPrice": 517839.22,
+        "avg_price_per_sqft": 234.43,
+        "avg_house_age": 37.3,
+        "avg_school_rating": 7.52,
+        "avg_school_size": 1557
+    }
+]

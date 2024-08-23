@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Austin House Price Analysis</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+
+  <style>
+    /* Ensure a 4:3 aspect ratio for the map container */
+    #map {
+      width: 100%;
+      height: calc(100vw * 0.75);
+      /* 4:3 aspect ratio */
+      max-height: 500px;
+      /* Maximum height to prevent excessive size on large screens */
+      position: relative;
+    }
+
+    /* Dropdown container positioned on the map */
+    #yearDropdownContainer {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      z-index: 1000;
+      /* Ensure it's on top of the map */
+      background-color: rgba(255, 255, 255, 0.8);
+      /* Semi-transparent background */
+      padding: 5px;
+      border-radius: 4px;
+      font-size: 12px;
+      /* Smaller font size */
+    }
+
+    /* Map Title Styling */
+    h5 {
+      font-size: 14px;
+      /* Smaller than h6 for the map title */
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 p-5 text-center bg-light">
+        <h1>Austin House Price Analysis</h1>
+        <p>Use the interactive charts below to explore the dataset</p>
+      </div>
+    </div>
+    <br>
+    <div class="row">
+      <div class="col-md-3">
+        <div class="card card-body bg-light">
+          <h6>Select Metric:</h6>
+          <select id="metricSelector" onchange="metricChanged(this.value)">
+            <option value="avg_latestPrice">Average Total Price</option>
+            <option value="avg_price_per_sqft">Average Price per Square Foot</option>
+            <option value="avg_house_age">Average House Age</option>
+            <option value="avg_school_rating">Average School Rating</option>
+          </select>
+        </div>
+        <br>
+        <div class="card card-body bg-light">
+          <h6>Select Zipcode:</h6>
+          <select id="selDataset" onchange="optionChanged(this.value)"></select>
+        </div>
+        <br>
+        <div class="card card-primary">
+          <div class="card-header">
+            <h4 class="card-title">House Info</h4>
+          </div>
+          <div id="sample-metadata" class="card-body"></div>
+        </div>
+      </div>
+      <div class="col-md-9">
+        <div id="bar"></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <div id="bubble"></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <!-- Map Title -->
+        <h4 class="text-center mt-4">Austin Residential Market Map(2018-2021)</h4>
+        <!-- Adjusted Map Container -->
+        <div id="map">
+          <!-- Year Selector positioned on top of the map -->
+          <!-- <div id="yearDropdownContainer">
+            <label for="yearDropdown">Transaction Year:</label>
+            <select id="yearDropdown" onchange="yearChanged(this.value)"></select>
+          </div> -->
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Leaflet JavaScript -->
+  <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+
+  <!-- Leaflet Heat Plugin -->
+  <script src="https://unpkg.com/leaflet.heat/dist/leaflet-heat.js"></script>
+
+  <!-- D3 and Plotly Libraries -->
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+  <!-- Your custom JavaScript file -->
+  <script src="./statics/js/app.js"></script>
+
+</body>
+
+</html>
